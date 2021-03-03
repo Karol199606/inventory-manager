@@ -26,13 +26,13 @@ product from the database
 ## Screenshots
 
 
-![Main menu](https://iv.pl/images/7c5f5fd614c4dbb8625d0ae40e77c7ff.png)
+![Main menu](https://i.postimg.cc/FKMW3X4J/pobrane.png19:46 24.02.2021)
 Main menu.<br/><br/>
 
-![Add product](https://iv.pl/images/435ff37d692f6d79bfe0846d5a6ba4af.png)
+![Add product](https://i.postimg.cc/7PV9Y2fz/Screenshot-9.png)
 Window for adding product to the base.<br/><br/>
 
-![Statistics](https://iv.pl/images/fdc9a3a01481c009431f01b6955f6154.png)
+![Statistics](https://i.postimg.cc/QC4cgcTn/Screenshot-1.png)
 After clicking "Refresh" in the main application window, we will see the new product from the database.<br/><br/>
 
 
@@ -57,3 +57,6 @@ Project in progress
 
 ## Inspiration
 Internet
+
+## Contact
+Created by Karol199606 and MeizuRR
